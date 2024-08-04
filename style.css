@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:  border-box;
+    font-family: "Raleway",sans-serif;
+}
+body{
+    height: 100vh;
+    background:linear-gradient(1355deg,#8052ec,#d161ff);
+
+}
+html{
+    font-size: 16px;
+}
+.Wrapper{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 40%;
+    left: 50%;
+}
+.container{
+    
+    width: 70vmin;
+    height:70vmin;
+    
+}
+.button-option{
+    background: #ffffff;
+    height: 22vmin;
+    width: 22vmin;
+    border: none;
+    border-radius: 8px;
+}
